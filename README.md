@@ -1,5 +1,9 @@
 # RaspberryPi-OLED-HAT-MENU 
 It is an updated version of [Oled Menu by dnhuan](https://github.com/dnhuan/OLED_Menu)
+
+You can run the code via flollowing command
+
+`python main.py`
 ## Main Menu: 
 1. System Infos 
 2. Ip List (You can see IPs on your local network)
